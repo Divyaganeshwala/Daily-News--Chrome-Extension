@@ -1,0 +1,1 @@
+Created a Chrome extension that displays the top 3 live news headlines with brief descriptions, images, and article links. Designed for ad-free, quick access to current top stories. Technologies used: HTML, CSS, JavaScript, The News API.
